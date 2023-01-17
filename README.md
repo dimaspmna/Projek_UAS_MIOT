@@ -1,3 +1,7 @@
+### Ujian AKhir Semester
+### Nama: Dimas Permana
+### NIM: 5200411293
+### Mata Kuliah: MIOT-C
 # ARSITEKTUR SISTEM
 ![ARSITEKTUR SISTEM](https://user-images.githubusercontent.com/97396687/212855773-93ae4d4e-1ca6-4134-91c4-530477eecadc.png)
 # KONFIGURASI ESP8266 DAN DHT11
